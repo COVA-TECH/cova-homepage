@@ -9720,3 +9720,7 @@ html .ui-button.ui-state-disabled:active {
 .cs_dark .cs_shape_animation_3 .cs_shape_1 .anio_3_c_1 {
 	fill: #171717;
 } /*# sourceMappingURL=style.css.map */
+
+.nav-active a {
+	color: #219dbc8a !important;
+}
