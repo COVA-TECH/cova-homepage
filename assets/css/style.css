@@ -9728,3 +9728,9 @@ html .ui-button.ui-state-disabled:active {
 	scale: 1.1;
 	color: #219dbcc0 !important;
 }
+
+.disabled {
+	opacity: 60%;
+	cursor: not-allowed;
+	text-decoration: line-through;
+}
