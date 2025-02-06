@@ -9734,3 +9734,7 @@ html .ui-button.ui-state-disabled:active {
 	cursor: not-allowed;
 	text-decoration: line-through;
 }
+
+.logo {
+	width: 150px;
+}
